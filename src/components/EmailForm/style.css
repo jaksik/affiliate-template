@@ -14,17 +14,10 @@
     width: 100%;
     height: 100%;
     background: #0000005e;
-    z-index: 200000;
     position: absolute;
 }
 
 .footer-image-title {
-    /* position: absolute;
-    z-index: 10000000;
-    font-family: serif;
-    font-size: 4rem;
-    font-weight: revert; */
     color: white;
-
     text-align: center; 
 }
